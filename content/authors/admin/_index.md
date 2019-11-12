@@ -18,23 +18,24 @@ organizations:
   url: "https://www.uvic.ca/engineering/computerscience/index.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum computing and quantum algorithms.
+bio: I'm a first year computer science PhD student beginning my research in quantum problem solving and algorithm design. 
 
 interests:
 - Quantum Computing
-- Algorithms
+- Quantum Algorithms
 - Deep Learning
+- Artificial Intelligence
 
 education:
   courses:
   - course: PhD in Computer Science
-    institution: University of Victoria
+    institution: University of Victoria, Victoria, Canada
     year: Current
   - course: MSc in Computer Science
-    institution: University of Victoria
+    institution: University of Victoria, Victoria, Canada
     year: 2018
   - course: BTech in Computer Science
-    institution: Gandhi Institute of Technology and Management
+    institution: Gandhi Institute of Technology and Management, Visakhapatnam, India
     year: 2012
 
 # Social/Academic Networking
@@ -44,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:pangara@uvic.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/prashantiangara
@@ -70,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm a first year PhD student in Computer Science at the University of Victoria. I'm interested and fascinated by Quantum Computing. 
