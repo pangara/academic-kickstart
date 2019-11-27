@@ -27,7 +27,7 @@ subtitle = ""
 [[feature]]
   icon = "js"
   icon_pack = "fab"
-  name = "JavaScipt"
+  name = "JavaScript"
   description = ""
 [[feature]]
   icon = "atom"
@@ -36,9 +36,15 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = ""
+  name = "SQL"
+  description = "" 
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "PyTorch"
+  description = "" 
 
 +++

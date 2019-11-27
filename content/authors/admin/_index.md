@@ -71,4 +71,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a first year PhD student in Computer Science at the University of Victoria. I'm interested and fascinated by Quantum Computing. 
+I am a first-year Ph.D. student at the University of Victoria with Dr. Hausi Muller and Dr. Ulrike Stege and I am interested and fascinated by Quantum Computing. For the last few months, I have delved into the world of quantum computing and I find it incredibly fascinating. Specifically, I’m interested in the areas of quantum graph algorithms, optimization, and quantum hybrid algorithms. I’m a student of the IBM Centre for Advanced Studies in Markham, Ontario with principal investigators Mehdi Bozzo-Rey and John Longbottom along with my supervisors. This CAS project grant is titled "CAS 1116: Quantum Problem Solving and Algorithm Design". 
+
+I'm currently looking for research internships for Summer 2020. 
+
+

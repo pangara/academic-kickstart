@@ -65,7 +65,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+1. [Quantum Problem Solving and Algorithm Design](https://dl.acm.org/citation.cfm?id=3172825)
+1. [Foodie: A Conversational Agent for the Smart Kitchen](https://dl.acm.org/citation.cfm?id=3172825)
+1. [Towards a Deeper Understanding of Current Conversational Frameworks through the Design and Development of a Cognitive Agent](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiI7fXE3YnmAhXOGjQIHWsAAtQQFjAAegQIBhAC&url=http%3A%2F%2Fdspace.library.uvic.ca%2Fbitstream%2Fhandle%2F1828%2F10374%2FAngara_Prashanti_MSc_2018.pdf%3Fsequence%3D1%26isAllowed%3Dy&usg=AOvVaw22Agss4PylE73iqcKjPVRi)
